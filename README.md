@@ -5,6 +5,8 @@ The intelligent line patrol robot based on OpenMV and stm32 microcontroller is s
 ![image](https://github.com/Cao1014/An-Intelligent-line-patrol-robot-based-on-OpenMV-and-stm32-microcontroller/assets/101035289/5851ef3f-a216-438a-989e-cdca9340c187)
 ![image](https://github.com/Cao1014/An-Intelligent-line-patrol-robot-based-on-OpenMV-and-stm32-microcontroller/assets/101035289/8aaad232-1f4b-4701-afdb-966555418f96)
 ![image](https://github.com/Cao1014/An-Intelligent-line-patrol-robot-based-on-OpenMV-and-stm32-microcontroller/assets/101035289/55da6e9c-bdb4-4d71-8c19-afb618b54bba)
+![image](https://github.com/Cao1014/An-Intelligent-line-patrol-robot-based-on-OpenMV-and-stm32-microcontroller/assets/101035289/dc3c289c-f9ee-4329-8734-7a9cec661373)
+![image](https://github.com/Cao1014/An-Intelligent-line-patrol-robot-based-on-OpenMV-and-stm32-microcontroller/assets/101035289/7b747447-7d90-43bf-99c2-f177a0f63cb6)
 
 ## Final demo `2024.5.30`
 ![b5d99215a0f5130d7713df3df4b37f52_720](https://github.com/Cao1014/An-Intelligent-line-patrol-robot-based-on-OpenMV-and-stm32-microcontroller/assets/101035289/5f58b67d-b6d6-4eab-a2e0-adf181fe61f7)
